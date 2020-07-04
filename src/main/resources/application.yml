@@ -1,6 +1,6 @@
 # 端口
 server:
-  port: 8761
+  port: 18761
 
 spring:
   application:
